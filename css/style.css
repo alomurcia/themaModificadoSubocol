@@ -399,7 +399,7 @@ html body.mini-navbar .navbar-default .nav>li>.nav-second-level li a {
 }
 
 .navbar-default .special_link a {
-    background: #1ab394;
+    background: #0d4d64;
     color: white;
 }
 
@@ -410,7 +410,7 @@ html body.mini-navbar .navbar-default .nav>li>.nav-second-level li a {
 
 .navbar-default .special_link a span.label {
     background: #fff;
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .navbar-default .landing_link a {
@@ -419,7 +419,7 @@ html body.mini-navbar .navbar-default .nav>li>.nav-second-level li a {
 }
 
 .navbar-default .landing_link a:hover {
-    background: #1ab394 !important;
+    background: #0d4d64 !important;
     color: white;
 }
 
@@ -504,7 +504,7 @@ html body.canvas-menu .logo-element {
 
 html body.mini-navbar .nav-header {
     padding: 0;
-    background-color: #1ab394;
+    background-color: #0d4d64;
 }
 
 html body.canvas-menu .nav-header {
@@ -627,7 +627,7 @@ html body.canvas-menu.mini-navbar nav.navbar-static-side {
 
 .top-navigation .navbar-nav .dropdown-menu>.active>a {
     background: white;
-    color: #1ab394;
+    color: #0d4d64;
     font-weight: bold;
 }
 
@@ -648,7 +648,7 @@ html body.canvas-menu.mini-navbar nav.navbar-static-side {
 .top-navigation .nav>li a:hover,
 .top-navigation .nav>li a:focus {
     background: #fff;
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .top-navigation .nav>li.active {
@@ -657,7 +657,7 @@ html body.canvas-menu.mini-navbar nav.navbar-static-side {
 }
 
 .top-navigation .nav>li.active>a {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .top-navigation .navbar-right {
@@ -679,7 +679,7 @@ html body.canvas-menu.mini-navbar nav.navbar-static-side {
 }
 
 .top-navigation .navbar-brand {
-    background: #1ab394;
+    background: #0d4d64;
     color: #fff;
     padding: 15px 25px;
 }
@@ -715,7 +715,7 @@ html body.canvas-menu.mini-navbar nav.navbar-static-side {
 }
 
 .navbar-toggle {
-    background-color: #1ab394;
+    background-color: #0d4d64;
     color: #fff;
     padding: 6px 12px;
     font-size: 14px;
@@ -807,7 +807,7 @@ html {
 }
 
 .btn-primary.btn-outline {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .btn-success.btn-outline {
@@ -835,9 +835,9 @@ html {
 }
 
 .btn-primary {
-    background: #1ab394;
-    background-color: #1ab394;
-    border-color: #1ab394;
+    background: #0d4d64;
+    background-color: #0d4d64;
+    border-color: #0d4d64;
     color: #FFFFFF;
 }
 
@@ -1090,7 +1090,7 @@ html fieldset[disabled] .btn-danger.active {
 .btn-link:active,
 .btn-link.active,
 .open .dropdown-toggle.btn-link {
-    color: #1ab394;
+    color: #0d4d64;
     text-decoration: none;
 }
 
@@ -1300,7 +1300,7 @@ html button.dim:active:before {
 
 .label-primary,
 .badge-primary {
-    background-color: #1ab394;
+    background-color: #0d4d64;
     color: #FFFFFF;
 }
 
@@ -1368,7 +1368,7 @@ html button.dim:active:before {
     display: block;
     overflow: hidden;
     cursor: pointer;
-    border: 2px solid #1ab394;
+    border: 2px solid #0d4d64;
     border-radius: 2px;
 }
 
@@ -1400,7 +1400,7 @@ html button.dim:active:before {
 .onoffswitch-inner:before {
     content: "ON";
     padding-left: 10px;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     color: #FFFFFF;
 }
 
@@ -1416,7 +1416,7 @@ html button.dim:active:before {
     width: 20px;
     margin: 0px;
     background: #FFFFFF;
-    border: 2px solid #1ab394;
+    border: 2px solid #0d4d64;
     border-radius: 2px;
     position: absolute;
     top: 0;
@@ -1573,8 +1573,8 @@ html button.dim:active:before {
 }
 
 .fc-state-active {
-    background-color: #1ab394;
-    border-color: #1ab394;
+    background-color: #0d4d64;
+    border-color: #0d4d64;
     color: #ffffff;
 }
 
@@ -1614,9 +1614,9 @@ html button.dim:active:before {
 .fc-agenda .fc-event-time,
 .fc-event a {
     padding: 4px 6px;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     /* background color */
-    border-color: #1ab394;
+    border-color: #0d4d64;
     /* border color */
 }
 
@@ -1736,8 +1736,8 @@ html button.dim:active:before {
 html a.list-group-item.active,
 html a.list-group-item.active:hover,
 html a.list-group-item.active:focus {
-    background-color: #1ab394;
-    border-color: #1ab394;
+    background-color: #0d4d64;
+    border-color: #0d4d64;
     color: #FFFFFF;
     z-index: 2;
 }
@@ -2026,7 +2026,7 @@ html table.dataTable thead .sorting:after {
 }
 
 .pace .pace-progress {
-    background: #1ab394;
+    background: #0d4d64;
     position: fixed;
     z-index: 2000;
     top: 0;
@@ -2185,11 +2185,11 @@ html table.dataTable thead .sorting:after {
 
 .form-control:focus,
 .single-line:focus {
-    border-color: #1ab394 !important;
+    border-color: #0d4d64 !important;
 }
 
 .has-success .form-control {
-    border-color: #1ab394;
+    border-color: #0d4d64;
 }
 
 .has-warning .form-control {
@@ -2201,7 +2201,7 @@ html table.dataTable thead .sorting:after {
 }
 
 .has-success .control-label {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .has-warning .control-label {
@@ -2233,7 +2233,7 @@ html table.dataTable thead .sorting:after {
 }
 
 .noUi-connect {
-    background: none repeat scroll 0 0 #1ab394;
+    background: none repeat scroll 0 0 #0d4d64;
     box-shadow: none;
 }
 
@@ -2272,7 +2272,7 @@ html table.dataTable thead .sorting:after {
     display: block;
     overflow: hidden;
     cursor: pointer;
-    border: 2px solid #1AB394;
+    border: 2px solid #0d4d64;
     border-radius: 3px;
 }
 
@@ -2306,7 +2306,7 @@ html table.dataTable thead .sorting:after {
 .onoffswitch-inner:before {
     content: "ON";
     padding-left: 7px;
-    background-color: #1AB394;
+    background-color: #0d4d64;
     color: #FFFFFF;
 }
 
@@ -2323,7 +2323,7 @@ html table.dataTable thead .sorting:after {
     width: 18px;
     margin: 0px;
     background: #FFFFFF;
-    border: 2px solid #1AB394;
+    border: 2px solid #0d4d64;
     border-radius: 3px;
     position: absolute;
     top: 0;
@@ -2882,11 +2882,11 @@ html label.error {
 }
 
 .toast {
-    background-color: #1ab394;
+    background-color: #0d4d64;
 }
 
 .toast-success {
-    background-color: #1ab394;
+    background-color: #0d4d64;
 }
 
 .toast-error {
@@ -2933,7 +2933,7 @@ html label.error {
 }
 
 .inspinia-notify.alert-info {
-    border-left: 6px solid #1ab394;
+    border-left: 6px solid #0d4d64;
 }
 
 .img-container,
@@ -3071,11 +3071,11 @@ html a.forum-item-title:hover {
 }
 
 .forum-item.active .fa {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .forum-item.active a.forum-item-title {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 @media (max-width: 992px) {
@@ -3270,7 +3270,7 @@ html {
 }
 
 .vertical-date small {
-    color: #1ab394;
+    color: #0d4d64;
     font-weight: 400;
 }
 
@@ -3973,7 +3973,7 @@ html img.circle-border {
     font-weight: 600;
     padding: 17px 20px;
     text-align: center;
-    background-color: #1ab394;
+    background-color: #0d4d64;
 }
 
 .login-panel {
@@ -4176,7 +4176,7 @@ html table.table-mail tr td {
 }
 
 .navy-bg {
-    background-color: #1ab394;
+    background-color: #0d4d64;
     color: #ffffff;
 }
 
@@ -4346,12 +4346,12 @@ html table.table-mail tr td {
 }
 
 .panel-primary {
-    border-color: #1ab394;
+    border-color: #0d4d64;
 }
 
 .panel-primary>.panel-heading {
-    background-color: #1ab394;
-    border-color: #1ab394;
+    background-color: #0d4d64;
+    border-color: #0d4d64;
 }
 
 .panel-success {
@@ -4395,7 +4395,7 @@ html table.table-mail tr td {
 }
 
 .progress-bar {
-    background-color: #1ab394;
+    background-color: #0d4d64;
 }
 
 .progress-small,
@@ -4448,7 +4448,7 @@ html table.table-mail tr td {
 }
 
 .text-navy {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .text-primary {
@@ -5227,7 +5227,7 @@ html ul.notes li div {
 }
 
 .category-list li a .text-navy {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .category-list li a .text-primary {
@@ -5517,7 +5517,7 @@ html dd.project-people {
 .faq-question {
     font-size: 18px;
     font-weight: 600;
-    color: #1ab394;
+    color: #0d4d64;
     display: block;
 }
 
@@ -5778,7 +5778,7 @@ html {
 }
 
 .issue-tracker .btn-link {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 html table.issue-tracker tbody tr td {
@@ -5844,7 +5844,7 @@ html table.issue-tracker tbody tr td {
 }
 
 .agile-list li.success-element {
-    border-left: 3px solid #1ab394;
+    border-left: 3px solid #0d4d64;
 }
 
 .agile-detail {
@@ -5878,7 +5878,7 @@ html del {
     height: 38px;
     width: 38px;
     display: block;
-    background: #1ab394;
+    background: #0d4d64;
     padding: 9px 8px;
     text-align: center;
     color: #fff;
@@ -5887,7 +5887,7 @@ html del {
 
 .open-small-chat:hover {
     color: white;
-    background: #1ab394;
+    background: #0d4d64;
 }
 
 .small-chat-box {
@@ -5953,7 +5953,7 @@ html del {
 }
 
 .small-chat-box .content .chat-message.active {
-    background: #1ab394;
+    background: #0d4d64;
     color: #fff;
 }
 
@@ -5982,7 +5982,7 @@ html del {
 .sk-spinner-rotating-plane.sk-spinner {
     width: 30px;
     height: 30px;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     margin: 0 auto;
     -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
     animation: sk-rotatePlane 1.2s infinite ease-in-out;
@@ -6042,7 +6042,7 @@ html {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     opacity: 0.6;
     position: absolute;
     top: 0;
@@ -6104,7 +6104,7 @@ html {
 }
 
 .sk-spinner-wave div {
-    background-color: #1ab394;
+    background-color: #0d4d64;
     height: 100%;
     width: 6px;
     display: inline-block;
@@ -6179,7 +6179,7 @@ html {
 
 .sk-spinner-wandering-cubes .sk-cube1,
 .sk-spinner-wandering-cubes .sk-cube2 {
-    background-color: #1ab394;
+    background-color: #0d4d64;
     width: 10px;
     height: 10px;
     position: absolute;
@@ -6255,7 +6255,7 @@ html {
     width: 40px;
     height: 40px;
     margin: 0 auto;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     border-radius: 100%;
     -webkit-animation: sk-pulseScaleOut 1s infinite ease-in-out;
     animation: sk-pulseScaleOut 1s infinite ease-in-out;
@@ -6314,7 +6314,7 @@ html {
     display: inline-block;
     position: absolute;
     top: 0;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     border-radius: 100%;
     -webkit-animation: sk-chasingDotsBounce 2s infinite ease-in-out;
     animation: sk-chasingDotsBounce 2s infinite ease-in-out;
@@ -6387,7 +6387,7 @@ html {
 .sk-spinner-three-bounce div {
     width: 18px;
     height: 18px;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     border-radius: 100%;
     display: inline-block;
     -webkit-animation: sk-threeBounceDelay 1.4s infinite ease-in-out;
@@ -6476,7 +6476,7 @@ html {
     margin: 0 auto;
     width: 20%;
     height: 20%;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     border-radius: 100%;
     -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
     animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
@@ -6669,7 +6669,7 @@ html {
 .sk-spinner-cube-grid .sk-cube {
     width: 33%;
     height: 33%;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     float: left;
     -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
     animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
@@ -6758,7 +6758,7 @@ html {
 }
 
 .sk-spinner-wordpress.sk-spinner {
-    background-color: #1ab394;
+    background-color: #0d4d64;
     width: 30px;
     height: 30px;
     border-radius: 30px;
@@ -6844,7 +6844,7 @@ html {
     margin: 0 auto;
     width: 18%;
     height: 18%;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     border-radius: 100%;
     -webkit-animation: sk-circleFadeDelay 1.2s infinite ease-in-out;
     animation: sk-circleFadeDelay 1.2s infinite ease-in-out;
@@ -7645,7 +7645,7 @@ html {
 }
 
 .spin-icon {
-    background: #1ab394;
+    background: #0d4d64;
     position: absolute;
     padding: 7px 10px 7px 13px;
     border-radius: 20px 0px 0px 20px;
@@ -7702,7 +7702,7 @@ html {
 
 .default-skin {
     font-weight: 600;
-    background: #1ab394;
+    background: #0d4d64;
 }
 
 .default-skin:hover {
@@ -7977,7 +7977,7 @@ html {
 }
 
 .vote-actions a {
-    color: #1ab394;
+    color: #0d4d64;
     font-weight: 600;
 }
 
@@ -8015,7 +8015,7 @@ html {
 }
 
 .vote-info a:hover {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .vote-icon {
@@ -8026,7 +8026,7 @@ html {
 }
 
 .vote-icon.active {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 body.body-small .vote-icon {
@@ -8058,7 +8058,7 @@ body.body-small .vote-icon {
     height: 38px;
     width: 38px;
     display: block;
-    background: #1ab394;
+    background: #0d4d64;
     padding: 9px 8px;
     text-align: center;
     color: #fff;
@@ -8067,7 +8067,7 @@ body.body-small .vote-icon {
 
 .open-small-chat:hover {
     color: white;
-    background: #1ab394;
+    background: #0d4d64;
 }
 
 .small-chat-box {
@@ -8133,7 +8133,7 @@ body.body-small .vote-icon {
 }
 
 .small-chat-box .content .chat-message.active {
-    background: #1ab394;
+    background: #0d4d64;
     color: #fff;
 }
 
@@ -8278,14 +8278,14 @@ table.shoping-cart-table tr td:last-child {
 
 .product-name:hover,
 .product-name:focus {
-    color: #1ab394;
+    color: #0d4d64;
 }
 
 .product-price {
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background-color: #1ab394;
+    background-color: #0d4d64;
     padding: 6px 12px;
     position: absolute;
     top: -32px;
@@ -8313,14 +8313,14 @@ table.shoping-cart-table tr td:last-child {
 .btn-outline {
     color: inherit;
     background-color: transparent !important;
-    border: 1px solid #1ab394 !important;
+    border: 1px solid #0d4d64 !important;
     transition: all .5s;
 }
 
 .btn-outline:hover {
     color: inherit;
-    background-color: #1ab394 !important;
-    border: 1px solid #1ab394 !important;
+    background-color: #0d4d64 !important;
+    border: 1px solid #0d4d64 !important;
     transition: all .5s;
 }
 

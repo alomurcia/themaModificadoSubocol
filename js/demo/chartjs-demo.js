@@ -88,19 +88,19 @@ $(function () {
         {
             value: 300,
             color: "#a3e1d4",
-            highlight: "#1ab394",
+            highlight: "#0d4d64",
             label: "App"
         },
         {
             value: 140,
             color: "#dedede",
-            highlight: "#1ab394",
+            highlight: "#0d4d64",
             label: "Software"
         },
         {
             value: 200,
             color: "#b5b8cf",
-            highlight: "#1ab394",
+            highlight: "#0d4d64",
             label: "Laptop"
         }
     ];
@@ -130,19 +130,19 @@ $(function () {
         {
             value: 300,
             color: "#a3e1d4",
-            highlight: "#1ab394",
+            highlight: "#0d4d64",
             label: "App"
         },
         {
             value: 50,
             color: "#dedede",
-            highlight: "#1ab394",
+            highlight: "#0d4d64",
             label: "Software"
         },
         {
             value: 100,
             color: "#b5b8cf",
-            highlight: "#1ab394",
+            highlight: "#0d4d64",
             label: "Laptop"
         }
     ];

@@ -39,15 +39,15 @@ p li, ul li, ol li {
 	LINKS & BUTTONS
 ------------------------------------- */
 a {
-	color: #1ab394;
+	color: #0d4d64;
 	text-decoration: underline;
 }
 
 .btn-primary:hover,.btn-primary:focus, .btn-primary {
 	text-decoration: none;
 	color: #FFF;
-	background: #1ab394;
-	border: solid #1ab394;
+	background: #0d4d64;
+	border: solid #0d4d64;
 	border-width: 5px 10px;
 	line-height: 2;
 	font-weight: bold;
@@ -111,7 +111,7 @@ a {
 	background: #ed5565;border:none;
 }
 .alert.alert-good {
-	background: #1ab394;
+	background: #0d4d64;
 	border:none;
 }
 
