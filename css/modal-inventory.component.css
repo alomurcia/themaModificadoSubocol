@@ -1,0 +1,18 @@
+.modal-step {
+  display: grid;
+  grid-template: 45% 55%/1fr;
+  height: 500px;
+  width: 559px;
+}
+
+.modal-logo-container {
+  background-color: #F8F8F8;
+}
+
+.info-container {
+  padding: 0 120px;
+}
+
+.img-width {
+  width: 157px;
+}

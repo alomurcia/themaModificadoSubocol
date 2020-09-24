@@ -10,12 +10,12 @@
     		  
 	        <ul class="nav" id="side-menu">
 				<div>
-				<img alt="image" class="img-circle" src="${site_logo}" />
+				<img alt="image" class="img-fluid rounded mx-auto d-block margin-top-img" src="${site_logo}" />
 				</div>
 	        	<#if (is_signed_in)>
 		            <li class="nav-header">
 		            	<div class="dropdown profile-element"> 
-			            	<span><img alt="image" class="img-circle" src="${user.getPortraitURL(themeDisplay)}" /></span>
+			            	<span><img alt="image" class="img-circle rounded mx-auto d-block" src="${user.getPortraitURL(themeDisplay)}" /></span>
 						    <a data-toggle="dropdown" class="dropdown-toggle" href="#">
 							    <span class="clear"> 
 							    	<span class="block m-t-xs"> <strong class="font-bold">${user.getFullName()}</strong>
@@ -31,10 +31,10 @@
 						    <ul class="dropdown-menu animated fadeInRight m-t-xs">
 						        <#if getterUtil.getBoolean(theme_settings['custom-profile-left-header-menu']!"", false)  == false>
 							    	<#assign user_profile = theme_display.getPortalURL()+"/web/"+user.getScreenName() />
-							    	<li><a href="${user_profile}"> <@liferay.language key="My profile" /></a></li>
+							    	<li><a href="${user_profile}"> <@liferay.language key="Mi perfil" /></a></li>
 							    	
 							    	<#assign user_dash = theme_display.getPortalURL()+"/user/"+user.getScreenName() />
-							    	<li><a href="${user_dash}"> <@liferay.language key="My Dashboard" /></a></li>
+							    	<li><a href="${user_dash}"> <@liferay.language key="Mi tablero de control" /></a></li>
 							    	
 							    	<#if my_account_url??>
 							    		<li><a href="${my_account_url}">${my_account_text}</a></li>
@@ -135,7 +135,7 @@
 	<script type="text/javascript">		
 		$( document ).ready(function() {
 			$('.icon-item1').addClass('fa fa-th-large');
-			$('.icon-item2').addClass('fa fa-diamond');
+			$('.icon-item2').addClass('fa fa-globe');
 			$('.icon-item3').addClass('fa fa-bar-chart-o');
 			$('.icon-item4').addClass('fa fa-envelope');
 			$('.icon-item5').addClass('fa fa-pie-chart');

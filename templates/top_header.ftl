@@ -14,7 +14,7 @@
         
         <ul class="nav navbar-top-links navbar-right">
         	<li>
-                <span class="m-r-sm text-muted welcome-message">Welcome to ${company_name}.</span>
+                <span class="m-r-sm text-muted welcome-message">Bienvenido a ${company_name}.</span>
             </li>
             <#if !is_signed_in>
             	<#if getterUtil.getString(theme_settings['login-page']!"", "") == "">

@@ -252,7 +252,7 @@ ul.nav {
 }
 
 .nav-header {
-    padding: 33px 25px;
+    padding: 33px 12px;
     background-size: cover;
 }
 
@@ -4544,6 +4544,10 @@ html a.close-canvas-menu:hover {
     height: 100%;
     width: 240px;
     float: left;
+}
+
+.margin-top-img {
+    margin-top: 5px;
 }
 
 .modal-backdrop {

@@ -3,9 +3,9 @@ $(function() {
         fill: ['#0d4d64', '#d7d7d7', '#ffffff']
     })
 
-    $(".line").peity("line",{
+    $(".line").peity("line", {
         fill: '#0d4d64',
-        stroke:'#169c81',
+        stroke: '#169c81',
     })
 
     $(".bar").peity("bar", {
@@ -14,10 +14,10 @@ $(function() {
 
     $(".bar_dashboard").peity("bar", {
         fill: ["#0d4d64", "#d7d7d7"],
-        width:100
+        width: 100
     })
 
-    var updatingChart = $(".updating-chart").peity("line", { fill: '#0d4d64',stroke:'#169c81', width: 64 })
+    var updatingChart = $(".updating-chart").peity("line", { fill: '#0d4d64', stroke: '#169c81', width: 64 })
 
     setInterval(function() {
         var random = Math.round(Math.random() * 10)

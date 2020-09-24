@@ -1,9 +1,8 @@
-$(function () {
+$(function() {
 
     var lineData = {
         labels: ["January", "February", "March", "April", "May", "June", "July"],
-        datasets: [
-            {
+        datasets: [{
                 label: "Example dataset",
                 fillColor: "rgba(220,220,220,0.5)",
                 strokeColor: "rgba(220,220,220,1)",
@@ -48,8 +47,7 @@ $(function () {
 
     var barData = {
         labels: ["January", "February", "March", "April", "May", "June", "July"],
-        datasets: [
-            {
+        datasets: [{
                 label: "My First dataset",
                 fillColor: "rgba(220,220,220,0.5)",
                 strokeColor: "rgba(220,220,220,0.8)",
@@ -84,8 +82,7 @@ $(function () {
     var ctx = document.getElementById("barChart").getContext("2d");
     var myNewChart = new Chart(ctx).Bar(barData, barOptions);
 
-    var polarData = [
-        {
+    var polarData = [{
             value: 300,
             color: "#a3e1d4",
             highlight: "#0d4d64",
@@ -126,8 +123,7 @@ $(function () {
     var ctx = document.getElementById("polarChart").getContext("2d");
     var myNewChart = new Chart(ctx).PolarArea(polarData, polarOptions);
 
-    var doughnutData = [
-        {
+    var doughnutData = [{
             value: 300,
             color: "#a3e1d4",
             highlight: "#0d4d64",
@@ -166,8 +162,7 @@ $(function () {
 
     var radarData = {
         labels: ["Eating", "Drinking", "Sleeping", "Designing", "Coding", "Cycling", "Running"],
-        datasets: [
-            {
+        datasets: [{
                 label: "My First dataset",
                 fillColor: "rgba(220,220,220,0.2)",
                 strokeColor: "rgba(220,220,220,1)",

@@ -178,7 +178,7 @@ $(function() {
         label: "Male",
         data: 50,
         color: "#d3d3d3",
-    },{
+    }, {
         label: "Female",
         data: 50,
         color: "#0d4d64",
@@ -373,5 +373,3 @@ $(function() {
     });
 
 });
-
-

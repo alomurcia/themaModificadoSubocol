@@ -53,9 +53,9 @@
 		</#if>
 
 		<div class="autofit-float autofit-row portlet-header">
-			<div class="autofit-col autofit-col-expand">
+			<!-- <div class="autofit-col autofit-col-expand">
 				<h2 class="portlet-title-text">${portlet_title}</h2>
-			</div>
+			</div> -->
 
 			<div class="autofit-col autofit-col-end">
 				<div class="autofit-section">

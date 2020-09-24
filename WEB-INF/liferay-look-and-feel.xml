@@ -16,7 +16,7 @@
 			<setting configurable="true" key="no-left-menu" type="checkbox" value="false"/>
 			<setting configurable="true" key="use-navbar-closed" type="checkbox" value="false"/>
 			<setting configurable="true" key="locked-page" type="checkbox" value="false"/>
-			<setting configurable="true" key="login-page" type="text" value="login"/>
+			<setting configurable="true" key="login-page" type="text" value="login2"/>
 			<setting configurable="true" key="show-language-choice" type="checkbox" value="true"/>
 			<setting configurable="true" key="show-welcome-message" type="checkbox" value="true"/>
 			<setting configurable="true" key="display-right-sidebar-toggle" type="checkbox" value="true"/>

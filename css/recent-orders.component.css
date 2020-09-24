@@ -1,0 +1,12 @@
+.orders-container {
+  overflow: auto;
+}
+
+.loader {
+  margin: auto;
+  width: 120px;
+}
+
+.column.no-float {
+  float: none;
+}
