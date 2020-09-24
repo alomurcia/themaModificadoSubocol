@@ -1,7 +1,7 @@
 .subsidiaries-list-info, .table-header {
   display: grid;
   grid-gap: 26px;
-  grid-template-columns: 60px repeat(auto-fill, minmax(176px, 1fr));
+  grid-template-columns: 60px repeat(auto-fill, minmax(176px, 1fr)) !important;
   grid-template-rows: 50px;
 }
 
