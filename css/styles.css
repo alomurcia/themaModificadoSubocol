@@ -6,12 +6,15 @@
 @import 'commons/_buttons.css';
 @import 'commons/_status.css';
 @import 'icons.css';
+@import 'empty.component.css';
 @import 'empty-inventory.component.css';
+@import 'filter-tab.component.css';
 @import 'input-control.component.css';
 @import 'input-file.component.css';
 @import 'modal-info-block.component.css';
 @import 'modal-inventory.component.css';
 @import 'modal.component.css';
+@import 'order.component.css';
 @import 'paginator.component.css';
 @import 'product-list.component.css';
 @import 'search.component.css';
@@ -24,6 +27,26 @@
 @import 'order-table.component.css';
 @import 'purchase-notices.component.css';
 @import 'recent-orders.component.css';
+@import 'notices-list.component.css';
+@import 'notices-detail.component.css';
+@import 'spare-parts-list.component.css';
+@import 'order-detail.component.css';
+@import 'spare-parts-list.component2.css';
+@import 'tracking.component.css';
+@import 'history.component.css';
+@import 'subsidiaries-list.component.css';
+@import 'subsidiary.component.css';
+@import 'create-subsidiary.component.css';
+@import 'stepper.component.css';
+@import 'card-field.component.css';
+@import 'profile-info.component.css';
+@import 'subsidiary-city-list.component.css';
+@import 'subsidiary-detail.component.css';
+@import 'create-provider.component.css';
+@import 'provider-details.component.css';
+@import 'provider-profile-edit.component.css';
+@import 'provider-list.component.css';
+
 html,
 body {
     height: 100%;
