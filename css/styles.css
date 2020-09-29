@@ -46,6 +46,7 @@
 @import 'provider-details.component.css';
 @import 'provider-profile-edit.component.css';
 @import 'provider-list.component.css';
+@import 'edit-subsidiary.component.css';
 
 html,
 body {
